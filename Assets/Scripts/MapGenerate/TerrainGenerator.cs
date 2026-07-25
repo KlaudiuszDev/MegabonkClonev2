@@ -30,4 +30,5 @@ public class TerrainGenerator
                 if (isPit) mapData.HeightMap[x, z]++;
             }
         }
+    }
 }
